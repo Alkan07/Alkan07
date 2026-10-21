@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://instagram.com/alkan.053">
+<a href="https://instagram.com/itsalkan">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
